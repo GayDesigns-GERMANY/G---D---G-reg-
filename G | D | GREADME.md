@@ -2,19 +2,19 @@ G---D---G-reg-
 ==============
 &#8984;Apple Logo
 &#9734;Whitestar
-&#9733blkstar
+&#9733;blkstar
 &infinity;80=
-&nabla;
-&delta;
-&loz;
-&shy;
-&clubs;&lowast;
-&GAY;
-&gay;
-&s.gay;
-&S.Gay;
-&s,gay;
-&S,GAY;
+&nabla;http://gaydesigns.de
+&delta;http://gaydesigns.de
+&loz;http://gaydesigns.de
+&shy;http://gaydesigns.de
+&clubs;&lowast;http://gaydesigns.de
+&GAY;http://gaydesigns.de
+&gay;http://gaydesigns.de
+&s.gay;http://gaydesigns.de
+&S.Gay;http://gaydesigns.de
+&s-gay;http://gaydesigns.de
+&S-GAY;http://gaydesigns.de
 Stefan,Dieter Gay
 Designer
 Founder
@@ -44,4 +44,4 @@ be
 belgium
 bel
 belgien
-&copy;2014 G | &ETH; | G&reg; 
+&copy;Copyright 2014 G | &ETH; | G &reg; 
