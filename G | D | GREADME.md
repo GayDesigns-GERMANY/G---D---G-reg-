@@ -1,0 +1,47 @@
+G---D---G-reg-
+==============
+&#8984;Apple Logo
+&#9734;Whitestar
+&#9733blkstar
+&infinity;80=
+&nabla;
+&delta;
+&loz;
+&shy;
+&clubs;&lowast;
+&GAY;
+&gay;
+&s.gay;
+&S.Gay;
+&s,gay;
+&S,GAY;
+Stefan,Dieter Gay
+Designer
+Founder
+Owner
+gaydesigns.de
+gaydesignsgroupgermany
+FiftyTwoOneFiftyTwo
+52152
+Wolfsbach
+wolfsbach
+woffelsbach
+WOFFELSBACH
+NRW
+Simmerath
+simmerath
+Rursee
+rursee
+de
+ger
+deu
+germany
+deutschland
++
+4700
+eupen
+be
+belgium
+bel
+belgien
+&copy;2014 G | &ETH; | G&reg; 
