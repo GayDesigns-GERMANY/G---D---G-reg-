@@ -683,8 +683,9 @@ G | D | G
 ≡	&equiv;	&#8801;	&#x2261;	identical to
 ≤	&le;	&#8804;	&#x2264;	less-than or equal to
 ≥	&ge;	&#8805;	&#x2265;	greater-than or equal to
-⊂	&sub;	&#8834;	&#x2282;	subset of
-⊃	&sup;	&#8835;	&#x2283;	superset of
+⊂𝔊
+⊃	&sub;	&#8834;	&#x2282;	subset of
+	&sup;	&#8835;	&#x2283;	superset of
 ⊄	&nsub;	&#8836;	&#x2284;	not a subset of
 ⊆	&sube;	&#8838;	&#x2286;	subset of or equal to
 ⊇	&supe;	&#8839;	&#x2287;	superset of or equal to
@@ -1307,7 +1308,7 @@ fj	fjlig	00066 + 0006A
 ⪄	gesdotol	02A84
 ⋛︀	gesl	022DB + 0FE00
 ⪔	gesles	02A94
-𝔊	Gfr	1D50A
+	Gfr	1D50A
 𝔤	gfr	1D524
 ⋙	Gg	022D9
 ≫	gg	0226B
